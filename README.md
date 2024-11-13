@@ -5,6 +5,6 @@ my discussion [with myself] on color [mis]calibration between sRGB, CIE, and W d
 
 Newer labeled sun spectrum: https://noirlab.edu/public/images/NEID-Solarlines-scale-CC/.  Why does this also go into eggplant (dark pink) but then into grey-pinkish and yellowish-grey on the last row?
 
-These charts can't be trusted for colorimetry!
-NOAO: auburn 680, red 630, brazen 610, yellow 590, chartreuse 570, green 550, glass 500, shore 470, sky 455, blue 430, violet 405, eggplant 400
+These charts can't be trusted for colorimetry!<br>
+NOAO: auburn 680, red 630, brazen 610, yellow 590, chartreuse 570, green 550, glass 500, shore 470, sky 455, blue 430, violet 405, eggplant 400<br>
 NEID: auburn 873, red 709, brazen 625, yellow 569, chartreuse 528, green 496, glass 482, shore 471, sky 455, blue 442, violet 420, eggplant 385
